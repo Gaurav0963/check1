@@ -5,7 +5,8 @@ print(db)
 
 d ={
     'name' : 'Gaurav',
-    'lastname' : 'Rajput'
+    'lastname' : 'Rajput',
+    'email':'gsr094@gmail.com'
 }
 
 db1 = client['file1']
